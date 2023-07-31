@@ -19,4 +19,4 @@
  - [ ] Yesterday ( more than 5 show as submenu)
  - [ ] Older ( show as submenu)
 
- - [  ] right click has a different submenu to allow user to mark as done, remove the task, move to next task
+ - [ ] right click has a different submenu to allow user to mark as done, remove the task, move to next task
